@@ -29,9 +29,6 @@ The project was completed between the months of **November 2017 and March 2018**
 ![studentInfoForm](https://user-images.githubusercontent.com/70431412/219836382-e54eef89-485c-409b-ac74-8914084b245d.png)
 ![entranceExamForm](https://user-images.githubusercontent.com/70431412/219836299-abcc47e0-1e4f-412e-8efa-48ab2d8c4833.png)
 ![printForm](https://user-images.githubusercontent.com/70431412/219836401-83b3dfcc-f589-443c-b947-d37680e9356b.png)
-<p align="center">
-
-</p>
 
 ## Note
 * The system has not been fully completed due to competing priorities with school work.
