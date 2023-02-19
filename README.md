@@ -6,22 +6,25 @@ The Desktop Application System is a software system developed using the Visual S
 \
 The project was completed between the months of **November 2017 and March 2018**.
 
-## Technology Stack
+## Technology Stacks
 * Microsoft Visual Studio Express 2012 (C#)
 * XAMPP
 * MySQL
 
-## Content
-* Student Section
-	* Application Form.
-	* Entrance Exam.
-		* 30 seconds timer per question.
-* Admin Section
-	* Send an email whether the students have passed or failed the entrance exam.
-	* Edit student information.
-	* Print the student application form.
+## System Sections
+The system has two main sections: Student and Admin.
 
-## Screenshot
+### Student Section
+* Application Form
+* Entrance Exam:
+  * 30 seconds timer per question
+
+### Admin Section
+* Send an email to notify students whether they passed or failed the entrance exam
+* Edit student information
+* Print student application form
+
+## Screenshots
 **Deleted logos and information for reasons of privacy and intellectual property.**</br>
 
 ![welcomeForm](https://user-images.githubusercontent.com/70431412/219836338-beea3e5d-5a0d-4d47-9008-31feff187fe6.png)
@@ -30,7 +33,7 @@ The project was completed between the months of **November 2017 and March 2018**
 ![entranceExamForm](https://user-images.githubusercontent.com/70431412/219836299-abcc47e0-1e4f-412e-8efa-48ab2d8c4833.png)
 ![printForm](https://user-images.githubusercontent.com/70431412/219836401-83b3dfcc-f589-443c-b947-d37680e9356b.png)
 
-## Note
+## Notes
 * The system has not been fully completed due to competing priorities with school work.
 * No database for account. (Security)
 	* Username: Administrator
