@@ -1,7 +1,9 @@
 <p align="left"> <img src="https://camo.githubusercontent.com/41b4407c394c2bd65aa1f4199f5ce149017b80e314e1207a505c26e9f8f677c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7374617475732d646973636f6e74696e7565642d7265642e737667" alt="discontinued" /> </p>
 
-# Student Application and Entrance Examination System
+# Senior High School Admissions System
 
+This is a system designed for educational institutions that offers an easy and efficient way to manage student applications and entrance exams.\
+\
 The Desktop Application System is a software system developed using the Visual Studio integrated development environment. The system relies on the DevExpress software development suite to provide user interface components and data visualization capabilities. Data is stored in a MySQL database, which is used to manage and store information used by the system.\
 \
 The project was completed between the months of **November 2017 and March 2018**.
